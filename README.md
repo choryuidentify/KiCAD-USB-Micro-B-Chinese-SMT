@@ -1,5 +1,5 @@
 # USB-Micro-B-Unknown-5s-SMT
-KiCAD Footprint for Chinese SMD Micro USB Female Connector.
+KiCad Footprint Library for Chinese SMD Micro USB Female Connector.
 
 Commonly it sells on AliExpress, Taobao, or eBay.
 
