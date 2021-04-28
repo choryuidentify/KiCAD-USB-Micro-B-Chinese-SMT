@@ -10,7 +10,7 @@ Commonly it sells on AliExpress, Taobao, or eBay.
 
 ![Target](https://raw.githubusercontent.com/choryuidentify/USB-Micro-B-Unknown-5s-SMT/master/images/thumbnail_back.jpg)
 
-![Images from](https://www.aliexpress.com/item/32812572943.html)
+[Images from](https://www.aliexpress.com/item/32812572943.html)
 
 ---
 ### Footprint Preview
